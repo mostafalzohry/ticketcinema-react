@@ -1,0 +1,54 @@
+#showTitle {
+  font-size: 20px;
+  font-family: droid arabic kufi, poppins, sans-serif;
+  color: #fff;
+  margin-top: 0;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.2;
+  padding-bottom: 15px;
+}
+
+img {
+  width: 32px;
+}
+
+.line1,
+.line2 {
+  content: "";
+  width: 100%;
+  height: 2px;
+  background-color: #000;
+  box-shadow: 0 1px 3px 0 rgb(102 102 102 / 46%);
+  margin-bottom: 30px;
+}
+
+.line2 {
+  margin-top: 50px;
+}
+
+.today {
+  color: #100e17;
+  background: #00e1ff;
+  font-size: 14px;
+  padding: 8px 13px;
+  position: relative;
+  cursor: pointer;
+  font-weight: 500;
+  margin-right: 8px;
+}
+
+.showCard {
+  background-color: #636262;
+}
+
+.showTitle {
+  font-size: 22px;
+  font-family: droid arabic kufi, poppins, sans-serif;
+  color: #fff;
+  margin-top: 0;
+  font-style: normal;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}

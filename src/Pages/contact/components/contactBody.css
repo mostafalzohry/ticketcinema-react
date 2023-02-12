@@ -1,0 +1,80 @@
+#contbody {
+  background-image: url("https://www.rnscinemas.net/public/assets/img/bg/footer_bg.jpg");
+  padding: 120px 0;
+}
+
+.contTitle {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 1;
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: 18px;
+  font-family: droid arabic kufi, poppins, sans-serif;
+  color: #fff;
+  margin-top: 0;
+  font-style: normal;
+}
+
+.contTitle::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 40px;
+  height: 3.5px;
+  background: #00e1ff;
+  border-radius: 1.5px;
+}
+
+#headBox {
+  background: #1f1e24;
+  padding: 40px 0 34px 0px;
+  box-shadow: 0 1px 7px 0 rgb(0 0 0 / 46%);
+  margin-top: 50px;
+}
+
+#headBox ul {
+  margin: 0;
+  padding: 0;
+}
+
+#headBox li {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #313035;
+  list-style: none;
+  text-align: left;
+}
+
+.icon {
+  width: 46px;
+  height: 46px;
+  flex: 0 0 46px;
+  text-align: center;
+  font-size: 16px;
+  background: #00e1ff;
+  line-height: 46px;
+  border-radius: 50%;
+  margin-right: 15px;
+  font-family: droid arabic kufi, poppins, sans-serif;
+}
+
+.boxP {
+  margin-bottom: 0;
+  margin-top: 0;
+  font-weight: 500;
+  line-height: 26px;
+  color: #bcbcbc;
+  display: inline-block;
+}
+
+.boxTitle {
+  color: #e5e5e5;
+  margin-right: 5px;
+  font-weight: 600;
+}

@@ -1,0 +1,35 @@
+.title {
+  font-family: droid arabic kufi, poppins, sans-serif;
+  color: white;
+  margin-top: 0;
+  font-style: normal;
+  font-weight: 700;
+}
+
+p {
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 26px;
+  color: #bcbcbc;
+  margin-bottom: 15px;
+}
+
+.pointer {
+  cursor: pointer;
+  border-bottom: 1px dashed #38373c;
+  padding-bottom: 20px;
+}
+
+.circle {
+  border-radius: 50%;
+  width: 5rem;
+  height: 5rem;
+  transition: 0.3s linear;
+  line-height: 5rem;
+  text-align: center;
+  margin: auto;
+}
+
+.pointer:hover .circle {
+  background-color: #00e1ff;
+}

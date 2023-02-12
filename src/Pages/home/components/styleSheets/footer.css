@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  color: white;
+  list-style-type: none;
+  display: inline-block;
+}
+
+#quickLinks a {
+  text-decoration: none;
+  color: #bcbcbc;
+  font-weight: 500;
+  font-size: 13px;
+  font-family: droid arabic kufi, poppins, sans-serif;
+  padding-right: 2rem;
+  line-height: 50px;
+  transition: all 0.3s ease-out 0s;
+}
+
+#quickLinks a:hover {
+  color: #00e1ff;
+}
+
+.social {
+  color: #bcbc;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  background-color: #12151e;
+  line-height: 50px;
+  text-align: center;
+  display: inline-block;
+  cursor: pointer;
+  transition: all 0.3s ease-out 0s;
+}
+
+.social svg {
+  transition: all 0.3s ease-out 0s;
+}
+
+.social:hover svg {
+  color: #00e1ff;
+}

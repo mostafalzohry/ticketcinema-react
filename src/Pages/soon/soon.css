@@ -1,0 +1,69 @@
+.soon {
+  background-image: url(https://www.rnscinemas.net/public/assets/img/bg/footer_bg.jpg);
+  text-align: center;
+  padding-bottom: 100px;
+}
+
+#soonText {
+  color: #bcbcbc;
+  letter-spacing: 1px;
+  font-size: 12px;
+  font-weight: 700;
+  padding-top: 50px;
+  margin-bottom: "5px";
+}
+
+#soonTitle {
+  color: white;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 36px;
+  padding-bottom: 15px;
+}
+
+#moviePoster {
+  width: 100%;
+  height: 284px;
+}
+
+#moviePoster img {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+#movieDetails h5,
+#movieDetails h6 {
+  cursor: pointer;
+  font-size: 16px;
+  color: white;
+  transition: all 0.3s ease-out 0s;
+  -webkit-transition: all 0.3s ease-out 0s;
+  -moz-transition: all 0.3s ease-out 0s;
+  -ms-transition: all 0.3s ease-out 0s;
+  -o-transition: all 0.3s ease-out 0s;
+}
+
+#movieDetails h5 {
+  font-weight: 600;
+  margin-top: 18px;
+  margin-bottom: 20px;
+}
+
+#movieDetails h6 {
+  font-weight: 700;
+}
+
+#movieDetails h5:hover {
+  color: #00e1ff;
+}
+
+#movieDetails h6:hover {
+  color: #2b96cc;
+}

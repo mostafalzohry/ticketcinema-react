@@ -1,0 +1,40 @@
+#cover {
+  background-image: url(https://www.rnscinemas.net/public/qv/cinemas.jpg);
+  padding: 270px 0 240px;
+  background-position: center;
+  background-size: cover;
+}
+
+#coverH {
+  font-size: 60px;
+  font-family: droid arabic kufi, poppins, sans-serif;
+  color: #fff;
+  font-weight: 700;
+  text-align: center;
+}
+
+#firstli {
+  color: #00e1ff;
+  font-weight: 600;
+  font-family: droid arabic kufi, poppins, sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.liWhite {
+  font-weight: 600;
+  color: #fff;
+  padding-left: 14px;
+  font-family: droid arabic kufi, poppins, sans-serif;
+  font-size: 14px;
+}
+
+#cover ul {
+  text-align: center;
+  padding-top: 0;
+  margin-right: 20px;
+}
+
+#cover li {
+  display: inline-block;
+}

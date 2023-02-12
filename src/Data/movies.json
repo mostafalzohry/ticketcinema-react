@@ -1,0 +1,424 @@
+{
+  "movies": [
+    {
+      "name": "Underdog",
+      "Year": "2007",
+      "Rated": "PG",
+      "Released": "03 Aug 2007",
+      "Runtime": "84 min",
+      "Genre": "Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",
+      "Director": "Frederik Du Chau",
+
+      "Actors": "Jason Lee, Peter Dinklage, Jim Belushi, Patrick Warburton",
+      "Plot": "A Beagle must use his newly-bestowed superpowers to defend Capitol City from mad scientist Simon Barsinister.",
+      "youtube": "https://www.youtube.com/watch?v=6jooThaqeYg",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NjkyNzEwOV5BMl5BanBnXkFtZTcwODc5NDI1MQ@@._V1_SX300.jpg",
+
+      "imdbRating": "4.7",
+      "imdbVotes": "19,729"
+    },
+    {
+      "name": "Honest Thief",
+      "Year": "2020",
+      "Rated": "PG-13",
+      "Released": "16 Oct 2020",
+      "Runtime": "99 min",
+      "Genre": "Action, Crime, Drama, Thriller",
+      "Director": "Mark Williams",
+
+      "Actors": "Liam Neeson, Kate Walsh, Jai Courtney, Jeffrey Donovan",
+      "Plot": "Wanting to lead an honest life, a notorious bank robber turns himself in, only to be double-crossed by two ruthless FBI agents.",
+      "youtube": "https://www.youtube.com/watch?v=ZUIEOMOxIDo",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjEwNjYyMTMtODc5Yi00NTg5LTkwMzAtZTkyOTcyNTFkMGIyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+
+      "imdbRating": "6.0",
+      "imdbVotes": "23,614"
+    },
+    {
+      "name": "Star Wars: Episode III - Revenge of the Sith",
+      "Year": "2005",
+      "Rated": "PG-13",
+      "Released": "19 May 2005",
+      "Runtime": "140 min",
+      "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "Director": "George Lucas",
+
+      "Actors": "Ewan McGregor, Natalie Portman, Hayden Christensen, Ian McDiarmid",
+      "Plot": "Three years into the Clone Wars, the Jedi rescue Palpatine from Count Dooku. As Obi-Wan pursues a new threat, Anakin acts as a double agent between the Jedi Council and Palpatine and is lured into a sinister plan to rule the galaxy.",
+      "youtube": "https://www.youtube.com/watch?v=5UnjrG_N8hU",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTc4MTc3NTQ5OF5BMl5BanBnXkFtZTcwOTg0NjI4NA@@._V1_SX300.jpg",
+
+      "imdbRating": "7.5",
+      "imdbVotes": "714,007"
+    },
+    {
+      "name": "Deadpool",
+      "Year": "2016",
+      "Rated": "R",
+      "Released": "12 Feb 2016",
+      "Runtime": "108 min",
+      "Genre": "Action, Adventure, Comedy, Sci-Fi",
+      "Director": "Tim Miller",
+
+      "Actors": "Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",
+      "Plot": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+      "youtube": "https://www.youtube.com/watch?v=ONHBaC-pfsk",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+
+      "imdbRating": "8.0",
+      "imdbVotes": "904,840"
+    },
+    {
+      "name": "Bruce Almighty",
+      "Year": "2003",
+      "Rated": "PG-13",
+      "Released": "23 May 2003",
+      "Runtime": "101 min",
+      "Genre": "Comedy, Fantasy",
+      "Director": "Tom Shadyac",
+
+      "Actors": "Jim Carrey, Morgan Freeman, Jennifer Aniston, Philip Baker Hall",
+      "Plot": "A guy who complains about God too often is given almighty powers to teach him how difficult it is to run the world.",
+      "youtube": "https://www.youtube.com/watch?v=fe-luzrqWSk",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzMyZDhiZDUtYWUyMi00ZDQxLWE4NDQtMWFlMjI1YjVjMjZiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+
+      "imdbRating": "6.8",
+      "imdbVotes": "372,120"
+    },
+    {
+      "name": "Bad Boys for Life",
+      "Year": "2020",
+      "Rated": "R",
+      "Released": "17 Jan 2020",
+      "Runtime": "124 min",
+      "Genre": "Action, Comedy, Crime, Thriller",
+      "Director": "Adil El Arbi, Bilall Fallah",
+
+      "Actors": "Will Smith, Martin Lawrence, Vanessa Hudgens, Alexander Ludwig",
+      "Plot": "Miami detectives Mike Lowrey and Marcus Burnett must face off against a mother-and-son pair of drug lords who wreak vengeful havoc on their city.",
+      "youtube": "https://www.youtube.com/watch?v=jKCj3XuPG8M",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWU0MGYwZWQtMzcwYS00NWVhLTlkZTAtYWVjOTYwZTBhZTBiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+
+      "imdbRating": "6.6",
+      "imdbVotes": "131,495"
+    },
+    {
+      "name": "Sausage Party",
+      "Year": "2016",
+      "Rated": "R",
+      "Released": "12 Aug 2016",
+      "Runtime": "89 min",
+      "Genre": "Animation, Adventure, Comedy, Fantasy",
+      "Director": "Greg Tiernan, Conrad Vernon",
+
+      "Actors": "Alistair Abell, Iris Apatow, Sugar Lyn Beard, Michael Cera",
+      "Plot": "A sausage strives to discover the truth about his existence.",
+      "youtube": "https://www.youtube.com/watch?v=WVAcTZKTgmc",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjkxOTk1MzY4MF5BMl5BanBnXkFtZTgwODQzOTU5ODE@._V1_SX300.jpg",
+
+      "imdbRating": "6.1",
+      "imdbVotes": "176,325"
+    },
+    {
+      "name": "A Dog's Purpose",
+      "Year": "2017",
+      "Rated": "PG",
+      "Released": "27 Jan 2017",
+      "Runtime": "100 min",
+      "Genre": "Adventure, Comedy, Drama, Family, Fantasy",
+      "Director": "Lasse Hallström",
+
+      "Actors": "Josh Gad, Dennis Quaid, Peggy Lipton, Bryce Gheisar",
+      "Plot": "A dog looks to discover his purpose in life over the course of several lifetimes and owners.",
+      "youtube": "https://www.youtube.com/watch?v=1jLOOCADTGs",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ4NjkxNzgzN15BMl5BanBnXkFtZTgwMjAzODQ4OTE@._V1_SX300.jpg",
+
+      "imdbRating": "7.2",
+      "imdbVotes": "65,912"
+    },
+    {
+      "name": "Apollo 11",
+      "Year": "2019",
+      "Rated": "G",
+      "Released": "01 Mar 2019",
+      "Runtime": "93 min",
+      "Genre": "Documentary, History",
+      "Director": "Todd Douglas Miller",
+
+      "Actors": "Neil Armstrong, Michael Collins, Buzz Aldrin, Deke Slayton",
+      "Plot": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilots Buzz Aldrin and Michael Collins.",
+      "youtube": "https://www.youtube.com/watch?v=eb_qTKXmc34",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMzEzNjI4M15BMl5BanBnXkFtZTgwODgxOTgyNzM@._V1_SX300.jpg",
+
+      "imdbRating": "8.2",
+      "imdbVotes": "22,107"
+    },
+    {
+      "name": "Kiss the Ground",
+      "Year": "2020",
+      "Rated": "N/A",
+      "Released": "01 Apr 2020",
+      "Runtime": "84 min",
+      "Genre": "Documentary",
+      "Director": "Joshua Tickell, Rebecca Harrell Tickell",
+
+      "Actors": "Woody Harrelson, Ray Archuleta, John Wick, Kristin Ohlson",
+      "Plot": "A revolutionary group of activists, scientists, farmers, and politicians band together in a global movement of \"Regenerative Agriculture\" that could balance our climate, replenish our vast water supplies, and feed the world",
+      "youtube": "https://www.youtube.com/watch?v=K3-V1j-zMZw",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmJkOWRhZWUtZmNlZC00NWYwLThiMmEtZjZkMTI4N2Y1NDMxXkEyXkFqcGdeQXVyMTE5NTc0NzY@._V1_SX300.jpg",
+
+      "imdbRating": "8.3",
+      "imdbVotes": "4,733"
+    },
+    {
+      "name": "The Game Changers",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "16 Sep 2019",
+      "Runtime": "86 min",
+      "Genre": "Documentary",
+      "Director": "Louie Psihoyos",
+
+      "Actors": "James Wilks, Arnold Schwarzenegger, Patrik Baboumian, Dotsie Bausch",
+      "Plot": "A UFC fighter's world is turned upside down when he discovers an elite group of world-renowned athletes and scientists who prove that everything he had been taught about protein was a lie.",
+      "youtube": "https://www.youtube.com/watch?v=iSpglxHTJVM",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzg4ZjMzOWEtZjBhZi00MzgxLWEzNmItYjVlYjY0MGQ5ZmM5XkEyXkFqcGdeQXVyNDExMzMxNjE@._V1_SX300.jpg",
+
+      "imdbRating": "7.9",
+      "imdbVotes": "16,197"
+    },
+    {
+      "name": "American Factory",
+      "Year": "2019",
+      "Rated": "TV-14",
+      "Released": "21 Aug 2019",
+      "Runtime": "110 min",
+      "Genre": "Documentary",
+      "Director": "Steven Bognar, Julia Reichert",
+
+      "Actors": "Junming 'Jimmy' Wang, Robert Allen, Sherrod Brown, Dave Burrows",
+      "Plot": "In post-industrial Ohio, a Chinese billionaire opens a factory in an abandoned General Motors plant, hiring two thousand Americans. Early days of hope and optimism give way to setbacks as high-tech China clashes with working-class America.",
+      "youtube": "https://www.youtube.com/watch?v=m36QeKOJ2Fc",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWFkMDY1MjItZmNkOS00MDg2LWFlMjMtZWU3YmM0MmY3MWM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+
+      "imdbRating": "7.4",
+      "imdbVotes": "17,956"
+    },
+    {
+      "name": "The Blue Lagoon",
+      "Year": "1980",
+      "Rated": "R",
+      "Released": "02 Jul 1980",
+      "Runtime": "104 min",
+      "Genre": "Adventure, Drama, Romance",
+      "Director": "Randal Kleiser",
+
+      "Actors": "Brooke Shields, Christopher Atkins, Leo McKern, William Daniels",
+      "Plot": "In the Victorian period, two children are shipwrecked on a tropical island in the South Pacific. With no adults to guide them, the two make a simple life together, unaware that sexual maturity will eventually intervene.",
+      "youtube": "https://www.youtube.com/watch?v=ixjI1oTOW4M",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWU2ZDIxY2UtNzM5NS00MWUwLTkxN2QtMmI3NDZkNTA2OTYxXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+
+      "imdbRating": "5.8",
+      "imdbVotes": "63,278"
+    },
+    {
+      "name": "Gone Girl",
+      "Year": "2014",
+      "Rated": "R",
+      "Released": "03 Oct 2014",
+      "Runtime": "149 min",
+      "Genre": "Drama, Mystery, Thriller",
+      "Director": "David Fincher",
+
+      "Actors": "Ben Affleck, Rosamund Pike, Neil Patrick Harris, Tyler Perry",
+      "Plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "youtube": "https://www.youtube.com/watch?v=2-_-1nJf8Vg",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg",
+
+      "imdbRating": "8.1",
+      "imdbVotes": "863,582"
+    },
+    {
+      "name": "The Revenant",
+      "Year": "2015",
+      "Rated": "R",
+      "Released": "08 Jan 2016",
+      "Runtime": "156 min",
+      "Genre": "Action, Adventure, Drama, History, Western",
+      "Director": "Alejandro G. Iñárritu",
+
+      "Actors": "Leonardo DiCaprio, Tom Hardy, Domhnall Gleeson, Will Poulter",
+      "Plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+      "youtube": "https://www.youtube.com/watch?v=LoebZZ8K5N0",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+
+      "imdbRating": "8.0",
+      "imdbVotes": "709,377"
+    },
+    {
+      "name": "After",
+      "Year": "2019",
+      "Rated": "PG-13",
+      "Released": "12 Apr 2019",
+      "Runtime": "105 min",
+      "Genre": "Drama, Romance",
+      "Director": "Jenny Gage",
+
+      "Actors": "Josephine Langford, Hero Fiennes Tiffin, Khadijha Red Thunder, Dylan Arnold",
+      "Plot": "A young woman falls for a guy with a dark secret and the two embark on a rocky relationship. Based on the novel by Anna Todd.",
+      "youtube": "https://www.youtube.com/watch?v=rPTf0Gw5-Bg",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_SX300.jpg",
+
+      "imdbRating": "5.3",
+      "imdbVotes": "38,125"
+    },
+    {
+      "name": "Mary",
+      "Year": "2019",
+      "Rated": "R",
+      "Released": "11 Oct 2019",
+      "Runtime": "84 min",
+      "Genre": "Horror, Mystery",
+      "Director": "Michael Goi",
+
+      "Actors": "Gary Oldman, Emily Mortimer, Manuel Garcia-Rulfo, Stefanie Scott",
+      "Plot": "A family looking to start a charter-boat business buys a ship that holds terrifying secrets once out on isolated waters.",
+      "youtube": "https://www.youtube.com/watch?v=ZfiDWM_KUnU",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzk1MGYyYmQtZjA3NC00ZWZiLTg1NWMtMjEwNTVlODM5OWVkXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg",
+
+      "imdbRating": "4.4",
+      "imdbVotes": "3,094"
+    },
+    {
+      "name": "The Grudge",
+      "Year": "2004",
+      "Rated": "PG-13",
+      "Released": "22 Oct 2004",
+      "Runtime": "91 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Takashi Shimizu",
+
+      "Actors": "Sarah Michelle Gellar, Jason Behr, William Mapother, Clea DuVall",
+      "Plot": "An American nurse living and working in Tokyo is exposed to a mysterious supernatural curse, one that locks a person in a powerful rage before claiming their life and spreading to another victim.",
+      "youtube": "https://www.youtube.com/watch?v=O2NKzO-fxwQ",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxODg1Nzc3NF5BMl5BanBnXkFtZTcwMjM0MjEzMw@@._V1_SX300.jpg",
+
+      "imdbRating": "5.9",
+      "imdbVotes": "138,933"
+    },
+    {
+      "name": "Gretel & Hansel",
+      "Year": "2020",
+      "Rated": "PG-13",
+      "Released": "31 Jan 2020",
+      "Runtime": "87 min",
+      "Genre": "Fantasy, Horror, Mystery, Thriller",
+      "Director": "Oz Perkins",
+
+      "Actors": "Sophia Lillis, Samuel Leakey, Alice Krige, Jessica De Gouw",
+      "Plot": "A long time ago in a distant fairy tale countryside, a young girl leads her little brother into a dark wood in desperate search of food and work, only to stumble upon a nexus of terrifying evil.",
+      "youtube": "https://www.youtube.com/watch?v=6ZgkHjpUM8w",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIyYWJjZDctODY4OC00NWExLWE2NTktZmY0MWY2YWZjMWIxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "imdbRating": "5.4",
+      "imdbVotes": "24,098"
+    },
+    {
+      "name": "The Nun",
+      "Year": "2018",
+      "Rated": "R",
+      "Released": "07 Sep 2018",
+      "Runtime": "96 min",
+      "Genre": "Horror, Mystery, Thriller",
+      "Director": "Corin Hardy",
+      "Actors": "Demián Bichir, Taissa Farmiga, Jonas Bloquet, Bonnie Aarons",
+      "Plot": "A priest with a haunted past and a novice on the threshold of her final vows are sent by the Vatican to investigate the death of a young nun in Romania and confront a malevolent force in the form of a demonic nun.",
+      "youtube": "https://www.youtube.com/watch?v=pzD9zGcUNrw",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_SX300.jpg",
+      "imdbRating": "5.3",
+      "imdbVotes": "119,020"
+    },
+    {
+      "name": "100% Wolf",
+      "Year": "2020",
+      "Rated": "PG",
+      "Released": "01 Dec 2020",
+      "Runtime": "96 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+      "Director": "Alexs Stadermann",
+      "Actors": "Loren Gray, Adriane Daff, Jane Lynch, Jai Courtney",
+      "Plot": "100% Wolf centers on Freddy Lupin, heir to a proud family line of werewolves. Positive he'll become the most fearsome werewolf ever, Freddy is in for a shock when his first \"warfing\" goes awry, turning him into a ferocious - poodle.",
+      "youtube": "https://www.youtube.com/watch?v=CcuodcWK2-s",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmRiYTM3ZGMtNzA1Yy00OWQ1LWE2ZGEtZTRiYzYyZDZjYWYwXkEyXkFqcGdeQXVyMjMwODE4ODI@._V1_SX300.jpg",
+      "imdbRating": "5.7",
+      "imdbVotes": "782"
+    },
+    {
+      "name": "Woody Woodpecker",
+      "Year": "2017",
+      "Rated": "PG",
+      "Released": "22 Nov 2019",
+      "Runtime": "91 min",
+      "Genre": "Comedy, Family",
+      "Director": "Alex Zamm",
+      "Actors": "Eric Bauza, Timothy Omundson, Graham Verchere, Jordana Largy",
+      "Plot": "The hyperactive red-headed bird enters a turf war with a big city lawyer wanting to tear down his home in an effort to build a house to flip.",
+      "youtube": "https://www.youtube.com/watch?v=NakCY0txrGI",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjJjMmRkNjYtNmJhNi00ZDM1LWEzMjMtOWZjNjgxODc1YmFlXkEyXkFqcGdeQXVyOTQyNTIzNjM@._V1_SX300.jpg",
+      "imdbRating": "4.1",
+      "imdbVotes": "3,543"
+    },
+    {
+      "name": "Ferdinand",
+      "Year": "2017",
+      "Rated": "PG",
+      "Released": "15 Dec 2017",
+      "Runtime": "108 min",
+      "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+      "Director": "Carlos Saldanha",
+      "Actors": "Jack Gore, Jet Jurgensmeyer, Nile Diaz, Colin H. Murphy",
+      "Plot": "After Ferdinand, a bull with a big heart, is mistaken for a dangerous beast, he is captured and torn from his home. Determined to return to his family, he rallies a misfit team on the ultimate adventure.",
+      "youtube": "https://www.youtube.com/watch?v=HBXVM7oUPVk",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTIwMDI0NjQ4OF5BMl5BanBnXkFtZTgwNjU0MzAyNDM@._V1_SX300.jpg",
+      "imdbRating": "6.7",
+      "imdbVotes": "48,883"
+    },
+    {
+      "name": "Pets United",
+      "Year": "2019",
+      "Rated": "TV-Y7",
+      "Released": "11 Sep 2020",
+      "Runtime": "89 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "Reinhard Klooss",
+      "Actors": "Patrick Roche, Natalie Dormer, Felix Auer, Jeff Burrell",
+      "Plot": "A group of spoilt, selfish pets led by glamour cat Belle are stranded in their luxury hangout 'Pampered Pets,' when the machines that run Robo City, the hypermodern metropolis that they live in, go wild and take over.",
+      "youtube": "https://www.youtube.com/watch?v=8ENQPimElA0",
+
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmU2YTEwODktZDFlNC00YWJmLTk0NjEtMzZjMjM4Y2E3NjdiXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+      "imdbRating": "3.8",
+      "imdbVotes": "1,858"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+#g {
+  color: #fff;
+  border: 2px solid #fff;
+  padding: 5px 10px;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 1;
+}
+
+ul {
+  padding: 1rem 0;
+  text-align: left;
+  left: 0;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+li {
+  font-size: 14px;
+  font-weight: 500;
+  color: #e3dfdf;
+  color: red;
+}
+
+li svg {
+  width: 14px;
+  height: 14px;
+  color: #e3dfdf;
+  line-height: 1px;
+}
+
+#date {
+  padding: 0 1rem;
+}

@@ -1,0 +1,17 @@
+.sliderP {
+  font-size: 26px;
+  color: #00e1ff;
+  font-family: droid arabic kufi, poppins, sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.sliderTitle {
+  font-size: 60px;
+  line-height: 1.2;
+  margin-bottom: 2rem;
+  font-family: droid arabic kufi, poppins, sans-serif;
+  color: #fff;
+  font-style: normal;
+  font-weight: 700;
+}

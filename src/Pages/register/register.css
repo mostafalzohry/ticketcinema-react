@@ -1,0 +1,62 @@
+.register {
+  background-image: url("https://rnscinemas.net/public/assets/img/bg/movie_bg.jpg");
+  padding: 50px 0;
+  text-align: center;
+}
+
+.formBody {
+  background-color: white;
+  padding: 30px 30px;
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+
+.formBody h4 {
+  font-size: 33px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 30px;
+}
+
+.socialLogin {
+  display: flex;
+  justify-content: flex-start;
+  margin-top: 30px;
+}
+
+.socialLogin ul {
+  padding: 0;
+}
+
+.loginTwit,
+.loginGoogle {
+  cursor: pointer;
+  padding: 5px;
+  width: 30px;
+  height: 30px;
+  line-height: 18px;
+  text-align: center;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.loginTwit {
+  background-color: #1da0f2;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+
+.loginGoogle {
+  background-color: #e72734;
+}
+
+.socialLogin svg {
+  font-size: 14px;
+  color: white;
+}
